@@ -2,15 +2,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "234704564902"
-global.ownername = "Voltage LORD 👑"
+global.ownernomer = "2349127237506"
+global.ownername = "EMMYBOTZ-MD 👑"
 global.ytname = "YT: Voltagetechpro"
 global.socialm = "GitHub: VoltageLord"
 global.location = "Nigeria, Edo, Benin"
 
 global.ownernumber = '2347045674902'  //creator number
-global.ownername = 'Voltage LORD 👑' //owner name
-global.botname = 'Phoenix-V1' //name of the bot
+global.ownername = 'ProfessorBotz 👑' //owner name
+global.botname = 'EMMYBOTZ-MD' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -31,7 +31,7 @@ global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = false //auto view status/story
 
